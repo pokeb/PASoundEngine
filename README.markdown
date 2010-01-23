@@ -1,6 +1,6 @@
 # About PASoundEngine
 
-This is my fork of the 'experimental' sound engine (for positional sound using Open AL) that comes with [Cocos 2d for iPhone](http://code.google.com/p/cocos2d-iphone/). [It was originally written by Florin Dumitrescu](http://code.google.com/p/cocos2d-iphone/source/browse/trunk/experimental/sound-engine/PASoundMgr.m). This is the sound engine used by my [Space Harvest](http://spaceharvest.com) game.
+This is my fork of the 'experimental' sound engine (for positional sound using Open AL) that comes with [cocos2d for iPhone](http://code.google.com/p/cocos2d-iphone/). [It was originally written by Florin Dumitrescu](http://code.google.com/p/cocos2d-iphone/source/browse/trunk/experimental/sound-engine/PASoundMgr.m). This is the sound engine used by my [Space Harvest](http://spaceharvest.com) game.
 
 This code is licensed under the [cocos2d for iPhone license](http://www.cocos2d-iphone.org/wiki/doku.php/license).
 
